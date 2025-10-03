@@ -1,0 +1,14 @@
+body {
+    background-color: #f8d99d;
+    font-family: serif;
+}
+.form21 {    width: 400px;
+    height: auto;
+    padding: 20px;
+    background-color: #a2ef5f;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+ border-style: solid;
+ margin:auto
+ }
